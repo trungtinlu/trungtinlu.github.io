@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio_crislu_downside.jpg"
+  avatar           : "/images/bio_crislu_downside.jpg"
   name             : "Trung Tin Lu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate at Sungkyunkwan University, Suwon"
