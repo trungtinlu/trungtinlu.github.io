@@ -12,7 +12,7 @@ My name is Trung Tin. I am pursuing my Ph.D. degree in **Electrical and Computer
 Research Interests
 ------
 * **Motion Control:** Developing and applying Field Oriented Control (FOC) with advanced control techinques to enhance the performance and stability of PMSM Drive Systems.
-* **Apdaptive Nonlinear Control:** Focusing on state observer (such as Extend State Observer, RBFNN Observer) to estimate the disturbance and uncertainty in PMSM Drive System.
+* **Apdaptive Nonlinear Control:** Focusing on state observer (such as Extend State Observer, RBFNN Observer) to estimate the disturbance and uncertainty for Autonomous System.
 
 Awards
 ------
